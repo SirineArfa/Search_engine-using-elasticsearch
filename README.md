@@ -31,4 +31,11 @@ Our project was composed of 3 main steps :
  
   - ElasticSearch python client: to query elasticsearch index.
   - Streamlit : to design a frontend for the application where users perform text and image search.
+
+
+# Contribution:
+
+Sirine Arfa & Arij Flihi
+
+INDP3 AIM , SUPCOM 2022/2023
  
