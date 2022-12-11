@@ -1,0 +1,9 @@
+To download the Images follow the links :
+
+1. Official site of the dataset:
+
+- https://storage.googleapis.com/openimages/web/download_v6.html
+
+2. Dowload the substance we used in our project :
+
+- https://voxel51.com/docs/fiftyone/user_guide/dataset_zoo/datasets.html#dataset-zoo-open-images-v6
