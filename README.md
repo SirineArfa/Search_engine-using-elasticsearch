@@ -1,7 +1,7 @@
 # Search_engine-using-elasticsearch
 Image and text search_engine using elasticsearch and and Approximate nearest neighbors.
 
-![thumbnail_1](https://user-images.githubusercontent.com/80635318/206896117-fbeb744e-9bbf-4af8-a666-bb25b2ead9b7.jpg | width = 150)
+![thumbnail_1](https://user-images.githubusercontent.com/80635318/206896117-fbeb744e-9bbf-4af8-a666-bb25b2ead9b7.jpg | width = 100)
 
 # About the project
 This academic project represents an image and text search engine that covers a 7200 image instance of OpenImages V6 which is a large scale dataset. We performed feature extraction from the images with VGG16 model to get a feature vector of length 4096 and then we reduced these dimentions to only 512 using a PCA-Principal Component Analysis of 512 components.
